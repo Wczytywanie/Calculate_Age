@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ObliczWiek">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/ObliczWiek.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
